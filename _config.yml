@@ -1,3 +1,42 @@
-theme: jekyll-theme-minimal
-title: ""
-description: ""
+theme: "just-the-docs"
+remote_theme: "pmarsceill/just-the-docs"
+title: "Phish4All Documentation"
+description: "Documentation pour Phish4All"
+url: ""
+baseurl: ""
+logo: "/assets/images/logo.svg"
+show_download: true
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+just_the_docs:
+  homepage: index.md
+  repository_url: "https://github.com/JulienBouchardIT/phish4all_documentation"
+  search_enabled: true
+  show_download: true
+  edit_on_github:
+    repository: "JulienBouchardIT/phish4all_documentation"
+    path: ""
+
+collections:
+  docs:
+    output: true
+
+include:
+  - _pages
+  - _docs
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Defaults for kramdown/rendering
+permalink: /:collection/:path/
+
+# Navigation will be configured in _data/navigation.yml
