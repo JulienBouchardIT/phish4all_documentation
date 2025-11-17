@@ -10,4 +10,4 @@ aux_links:
 color_scheme: dark
 mermaid:
   version: "9.1.3"
-  nav_enabled: true
+nav_enabled: true
