@@ -2,6 +2,7 @@
 title: Protect Yourself
 layout: default
 ---
+<link rel="shortcut icon" type="image/png" href="assets/images/logo.svg">
 
 # How to Protect Yourself
 Protecting yourself from fraud begins with building strong habits. These practices reduce your chances of becoming a victim—no matter whether scammers contact you by phone, SMS, or email.
