@@ -6,5 +6,5 @@ color_scheme: dark
 mermaid:
   version: "9.1.3"
 nav_enabled: true
-logo: "assets/images/logo.svg"
+logo: "assets/images/logo_title.svg"
 favicon_icon: "assets/images/logo.ico"
