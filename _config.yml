@@ -1,8 +1,8 @@
 title: "Documentation | Phish4All"
 description: 
-remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
+remote_theme: just-the-docs/just-the-docs
 
 color_scheme: dark
 mermaid:
