@@ -2,6 +2,7 @@
 title: Spot Fraud
 layout: default
 ---
+<link rel="shortcut icon" type="image/png" href="assets/images/logo.svg">
 
 # How to Spot Fraud
 Fraud attempts come in many forms, but most share common tactics designed to confuse, pressure, or mislead you.
