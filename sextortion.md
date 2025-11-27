@@ -3,7 +3,7 @@ title: Sextortion
 layout: simple
 ---
 
-# Sextortion Fraud – Summary Documentation
+# Sextortion Fraud
 
 ## 1. Overview
 **Sextortion Fraud** is a form of extortion in which a fraudster manipulates a victim into sharing private or intimate images and then threatens to publicly release them unless demands are met.  

@@ -3,7 +3,7 @@ title: Pig Butchering
 layout: simple
 ---
 
-# Pig Butchering Fraud – Summary Documentation
+# Pig Butchering Fraud
 
 ## 1. Overview
 **Pig Butchering Fraud** is a long-term social engineering scam where criminals build trust with victims—often through social media, dating apps, or messaging platforms—and gradually convince them to invest in fake or fraudulent financial platforms (commonly crypto).  
