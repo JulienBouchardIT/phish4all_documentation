@@ -1,6 +1,6 @@
 ---
 title: Protect Yourself
-layout: default
+layout: simple
 ---
 <link rel="shortcut icon" type="image/png" href="assets/images/logo.svg">
 
