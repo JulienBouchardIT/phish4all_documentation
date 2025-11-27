@@ -1,3 +1,8 @@
+---
+title: Sextortion
+layout: simple
+---
+
 # Sextortion Fraud – Summary Documentation
 
 ## 1. Overview

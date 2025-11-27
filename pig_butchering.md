@@ -1,3 +1,8 @@
+---
+title: Pig Butchering
+layout: simple
+---
+
 # Pig Butchering Fraud – Summary Documentation
 
 ## 1. Overview
